@@ -1,4 +1,4 @@
-<?php
+<?php test
 /**
  * The base configurations of the WordPress.
  *
